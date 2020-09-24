@@ -38,12 +38,12 @@
         ]
     },
     "social-networks": {
-        "props": [
-
+        "props": {
+            "socialNetworks": [
                 { "url": "https://facebook.com/foo", "name": "Facebook" },
                 { "url": "https://instagram.com/foo", "name": "Instagram" },
                 { "url": "https://twitter.com/foo", "name": "Twitter" }
-
-        ]
+            ]
+        }
     }
 }
